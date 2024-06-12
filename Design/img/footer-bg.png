@@ -1,0 +1,11 @@
+/* Frame 166 */
+
+position: absolute;
+width: 590px;
+height: 830px;
+left: 0px;
+top: 0px;
+
+/* Main/Primary */
+background: #8053FF;
+border-radius: 0px 200px 200px 0px;
